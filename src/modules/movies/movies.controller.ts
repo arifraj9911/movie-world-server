@@ -15,9 +15,16 @@ const createMovie = catchAsync(async (req, res, next) => {
       }
     }
   });
-  const file = req.file;
+  const files = req.files as Record<string, Express.Multer.File[]>;
 
-  const result = await MovieServices.createMovieIntoDB(file, payload);
+  const posterFile = files?.poster?.[0];
+  const topCastFiles = files?.topCastImages || [];
+
+  const result = await MovieServices.createMovieIntoDB(
+    posterFile,
+    topCastFiles,
+    payload
+  );
 
   sendResponse(res, {
     statusCode: StatusCodes.OK,
@@ -27,6 +34,56 @@ const createMovie = catchAsync(async (req, res, next) => {
   });
 });
 
+const getMovie = catchAsync(async (req, res, next) => {
+  const result = await MovieServices.getMovieFromDB();
+
+  sendResponse(res, {
+    statusCode: StatusCodes.OK,
+    success: true,
+    message: "successfully retrieved movies",
+    data: result,
+  });
+});
+
+const getSingleMovie = catchAsync(async (req, res, next) => {
+  const result = await MovieServices.getSingleMovieFromDB(req.params.id);
+
+  sendResponse(res, {
+    statusCode: StatusCodes.OK,
+    success: true,
+    message: "successfully retrieved single movies",
+    data: result,
+  });
+});
+
+const updateMovie = catchAsync(async (req, res, next) => {
+  const result = await MovieServices.updateMoviesIntoDB(
+    req.params.id,
+    req.body
+  );
+
+  sendResponse(res, {
+    statusCode: StatusCodes.OK,
+    success: true,
+    message: "successfully updated movie",
+    data: result,
+  });
+});
+const deleteMovie = catchAsync(async (req, res, next) => {
+  const result = await MovieServices.deleteMovieFromDB(req.params.id);
+
+  sendResponse(res, {
+    statusCode: StatusCodes.OK,
+    success: true,
+    message: "successfully deleted movie",
+    data: result,
+  });
+});
+
 export const MovieController = {
   createMovie,
+  getMovie,
+  getSingleMovie,
+  updateMovie,
+  deleteMovie,
 };
