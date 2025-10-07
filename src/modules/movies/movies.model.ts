@@ -16,7 +16,7 @@ const TopCastSchema = new Schema<ITopCast>(
 // Movie Schema
 const MovieSchema = new Schema<IMovie>(
   {
-    id: { type: String, required: true, unique: true },
+    id: { type: String, required: false },
     title: { type: String, required: true },
     poster: { type: String, required: true },
     description: { type: String, required: true },

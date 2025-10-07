@@ -33,9 +33,11 @@ const createMovieIntoDB = async (
       }
     }
 
+    console.log("Final payload before DB create:", payload);
     const result = await Movie.create(payload);
     return result;
-  } catch (error) {
+  } catch (error: any) {
+    console.error("Database create error:", error);
     throw new Error("Failed to create movie in the database");
   }
 };

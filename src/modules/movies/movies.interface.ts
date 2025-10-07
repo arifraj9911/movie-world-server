@@ -9,7 +9,7 @@ export interface ITopCast {
 
 // Movie Interface
 export interface IMovie {
-  id: string;
+  id?: string;
   title: string;
   poster: string;
   description: string;
