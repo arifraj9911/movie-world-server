@@ -24,7 +24,23 @@ const app = (0, express_1.default)();
 // parser
 app.use(express_1.default.json());
 // app.use(cookieParser());
-app.use((0, cors_1.default)({ origin: ["http://localhost:3000", "https://movie-world-client.vercel.app"], credentials: true }));
+const allowedOrigins = [
+    "https://movie-world-client.vercel.app", // live client
+    "http://localhost:3000", // dev
+];
+app.use((0, cors_1.default)({
+    origin: function (origin, callback) {
+        // allow requests with no origin (like mobile apps, curl)
+        if (!origin)
+            return callback(null, true);
+        if (allowedOrigins.indexOf(origin) === -1) {
+            const msg = "The CORS policy for this site does not allow access from the specified Origin.";
+            return callback(new Error(msg), false);
+        }
+        return callback(null, true);
+    },
+    credentials: true,
+}));
 // application route
 app.use("/api/v1", routes_1.default);
 const test = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
