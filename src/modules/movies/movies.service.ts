@@ -111,10 +111,30 @@ const deleteMovieFromDB = async (id: string) => {
   }
 };
 
+const updateWatchStatus = async (id: string) => {
+  try {
+    const result = await Movie.findByIdAndUpdate(
+      id,
+      { $set: { isWatched: true } },
+      { new: true }
+    );
+
+    if (!result) {
+      throw new Error("Movie not found");
+    }
+
+    // console.log(result);
+    return result;
+  } catch (error: any) {
+    throw new Error(error.message || "Failed to update the status");
+  }
+};
+
 export const MovieServices = {
   createMovieIntoDB,
   getMovieFromDB,
   getSingleMovieFromDB,
   updateMoviesIntoDB,
   deleteMovieFromDB,
+  updateWatchStatus
 };

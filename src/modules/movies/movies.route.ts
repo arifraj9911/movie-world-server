@@ -21,4 +21,6 @@ router.patch("/update/:id", MovieController.updateMovie);
 
 router.delete("/delete/:id", MovieController.deleteMovie);
 
+router.patch("/watch-status/:id", MovieController.watchStatus);
+
 export const MovieRoutes = router;

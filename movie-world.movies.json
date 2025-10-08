@@ -1,0 +1,724 @@
+[
+  {
+    "_id": {
+      "$oid": "68e40ecb2fe670a18a81bfde"
+    },
+    "id": "mv006",
+    "title": "Forrest Gump",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777662/forest_gump_zc0sm8.jpg",
+    "description": "A simple man with a big heart witnesses defining moments in American history through his extraordinary life.",
+    "creators": ["Robert Zemeckis"],
+    "stars": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+    "genre": ["Drama", "Romance"],
+    "releaseYear": 1994,
+    "episodes": 1,
+    "videos": 14,
+    "photos": 65,
+    "rating": 8.8,
+    "ratingCount": 2200000,
+    "language": "English",
+    "country": "USA",
+    "duration": "2h 22m",
+    "youtubeUrl": "https://www.youtube.com/embed/bLvqoHBptjg",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778306/1_z42bn9.jpg",
+        "name": "Tom Hanks",
+        "role": "Forrest Gump",
+        "episode": 1,
+        "year": 1994
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778305/2_wbydav.jpg",
+        "name": "Robin Wright",
+        "role": "Jenny Curran",
+        "episode": 1,
+        "year": 1994
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778306/3_ms4zjc.jpg",
+        "name": "Gary Sinise",
+        "role": "Lt. Dan Taylor",
+        "episode": 1,
+        "year": 1994
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778306/4_aptvhx.jpg",
+        "name": "Mykelti Williamson",
+        "role": "Bubba Blue",
+        "episode": 1,
+        "year": 1994
+      }
+    ],
+    "tags": ["life", "drama", "classic"],
+    "isWatched": false
+  },
+  {
+    "_id": {
+      "$oid": "68e40ecb2fe670a18a81bfdd"
+    },
+    "id": "mv005",
+    "title": "Inception",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777664/iinception_lscwqp.jpg",
+    "description": "A skilled thief who steals secrets through dream-sharing technology is offered a chance to have his past forgiven.",
+    "creators": ["Christopher Nolan"],
+    "stars": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "genre": ["Sci-Fi", "Thriller"],
+    "releaseYear": 2010,
+    "episodes": 1,
+    "videos": 18,
+    "photos": 70,
+    "rating": 8.8,
+    "ratingCount": 2400000,
+    "language": "English",
+    "country": "USA",
+    "duration": "2h 28m",
+    "youtubeUrl": "https://www.youtube.com/embed/YoHD9XEInc0",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778217/1_ojycwv.jpg",
+        "name": "Leonardo DiCaprio",
+        "role": "Cobb",
+        "episode": 1,
+        "year": 2010
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778218/2_ngtb2o.jpg",
+        "name": "Joseph Gordon-Levitt",
+        "role": "Arthur",
+        "episode": 1,
+        "year": 2010
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778218/3_zwj9zk.jpg",
+        "name": "Elliot Page",
+        "role": "Ariadne",
+        "episode": 1,
+        "year": 2010
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778218/4_kxdork.jpg",
+        "name": "Tom Hardy",
+        "role": "Eames",
+        "episode": 1,
+        "year": 2010
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778219/5_u6dz6x.jpg",
+        "name": "Ken Watanabe",
+        "role": "Saito",
+        "episode": 1,
+        "year": 2010
+      }
+    ],
+    "tags": ["dream", "heist", "psychological"],
+    "isWatched": false
+  },
+  {
+    "_id": {
+      "$oid": "68e40ecb2fe670a18a81bfd9"
+    },
+    "id": "mv001",
+    "title": "The Vampire Diaries",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777666/vampire_diaries_qbbiav.jpg",
+    "description": "The lives, loves, dangers, and disasters in Mystic Falls — a teenage girl torn between two vampire brothers.",
+    "creators": ["Julie Plec", "Kevin Williamson"],
+    "stars": ["Nina Dobrev", "Paul Wesley", "Ian Somerhalder"],
+    "genre": ["Drama", "Fantasy", "Horror"],
+    "releaseYear": 2009,
+    "episodes": 171,
+    "videos": 24,
+    "photos": 85,
+    "rating": 8.3,
+    "ratingCount": 450000,
+    "language": "English",
+    "country": "USA",
+    "duration": "42m per ep",
+    "youtubeUrl": "https://www.youtube.com/embed/BmVmhjjkN4E",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777912/1_nfcix8.jpg",
+        "name": "Nina Dobrev",
+        "role": "Elena Gilbert",
+        "episode": 171,
+        "year": 2009
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777912/2_dl2bpg.jpg",
+        "name": "Paul Wesley",
+        "role": "Stefan Salvatore",
+        "episode": 171,
+        "year": 2009
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777913/3_pbxsnh.jpg",
+        "name": "Ian Somerhalder",
+        "role": "Damon Salvatore",
+        "episode": 171,
+        "year": 2009
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777914/4_sw3mpm.jpg",
+        "name": "Kat Graham",
+        "role": "Bonnie Bennett",
+        "episode": 171,
+        "year": 2009
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777913/5_vyhiya.jpg",
+        "name": "Candice King",
+        "role": "Caroline Forbes",
+        "episode": 171,
+        "year": 2009
+      }
+    ],
+    "tags": ["vampire", "romance", "supernatural"],
+    "isWatched": false
+  },
+  {
+    "_id": {
+      "$oid": "68e40ecb2fe670a18a81bfdb"
+    },
+    "id": "mv003",
+    "title": "Pathaan",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777666/pathan2_n9fcjm.jpg",
+    "description": "An exiled RAW agent returns to protect his nation from a deadly mercenary threatening global chaos.",
+    "creators": ["Siddharth Anand"],
+    "stars": ["Shah Rukh Khan", "Deepika Padukone", "John Abraham"],
+    "genre": ["Action", "Thriller"],
+    "releaseYear": 2023,
+    "episodes": 1,
+    "videos": 10,
+    "photos": 40,
+    "rating": 7.2,
+    "ratingCount": 210000,
+    "language": "Hindi",
+    "country": "India",
+    "duration": "2h 26m",
+    "youtubeUrl": "https://www.youtube.com/embed/vqu4z34wENw",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778030/1_aiokpm.jpg",
+        "name": "Shah Rukh Khan",
+        "role": "Pathaan",
+        "episode": 1,
+        "year": 2023
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778029/2_tyxgus.jpg",
+        "name": "Deepika Padukone",
+        "role": "Rubina Mohsin",
+        "episode": 1,
+        "year": 2023
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778030/3_w4l7tw.jpg",
+        "name": "John Abraham",
+        "role": "Jim",
+        "episode": 1,
+        "year": 2023
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778030/4_qtgtwf.png",
+        "name": "Dimple Kapadia",
+        "role": "Nilofer",
+        "episode": 1,
+        "year": 2023
+      }
+    ],
+    "tags": ["spy", "espionage", "thriller"],
+    "isWatched": false
+  },
+  {
+    "_id": {
+      "$oid": "68e40ecb2fe670a18a81bfe3"
+    },
+    "id": "mv012",
+    "title": "Game of Thrones",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777663/got_k0ugwp.jpg",
+    "description": "Noble families fight for control of the Seven Kingdoms of Westeros while an ancient enemy returns.",
+    "creators": ["David Benioff", "D. B. Weiss"],
+    "stars": ["Emilia Clarke", "Kit Harington", "Peter Dinklage"],
+    "genre": ["Drama", "Fantasy", "Adventure"],
+    "releaseYear": 2011,
+    "episodes": 73,
+    "videos": 50,
+    "photos": 200,
+    "rating": 9.2,
+    "ratingCount": 2500000,
+    "language": "English",
+    "country": "USA",
+    "duration": "55m per ep",
+    "youtubeUrl": "https://www.youtube.com/embed/KPLWWIOCOOQ",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778701/1_nefrsk.jpg",
+        "name": "Emilia Clarke",
+        "role": "Daenerys Targaryen",
+        "episode": 73,
+        "year": 2011
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778702/2_xfleoz.jpg",
+        "name": "Kit Harington",
+        "role": "Jon Snow",
+        "episode": 73,
+        "year": 2011
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778705/3_pcmevm.jpg",
+        "name": "Peter Dinklage",
+        "role": "Tyrion Lannister",
+        "episode": 73,
+        "year": 2011
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778706/4_npd9v5.jpg",
+        "name": "Lena Headey",
+        "role": "Cersei Lannister",
+        "episode": 73,
+        "year": 2011
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778708/5_nhnhzj.jpg",
+        "name": "Nikolaj Coster-Waldau",
+        "role": "Jaime Lannister",
+        "episode": 73,
+        "year": 2011
+      }
+    ],
+    "tags": ["fantasy", "kingdom", "war"],
+    "isWatched": false
+  },
+  {
+    "_id": {
+      "$oid": "68e40ecb2fe670a18a81bfda"
+    },
+    "id": "mv002",
+    "title": "Jawan",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777664/jawan_mrnai0.jpg",
+    "description": "A man driven by a personal vendetta takes on corruption and injustice with explosive consequences.",
+    "creators": ["Atlee Kumar"],
+    "stars": ["Shah Rukh Khan", "Nayanthara", "Vijay Sethupathi"],
+    "genre": ["Action", "Thriller", "Drama"],
+    "releaseYear": 2023,
+    "episodes": 1,
+    "videos": 12,
+    "photos": 50,
+    "rating": 7.9,
+    "ratingCount": 190000,
+    "language": "Hindi",
+    "country": "India",
+    "duration": "2h 49m",
+    "youtubeUrl": "https://www.youtube.com/embed/MWOlnZSnXJo",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759782556/1_nctcsb.jpg",
+        "name": "Shah Rukh Khan",
+        "role": "Azad / Vikram Rathore",
+        "episode": 1,
+        "year": 2023
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759782556/2_jjzapc.jpg",
+        "name": "Nayanthara",
+        "role": "Narmada Rai",
+        "episode": 1,
+        "year": 2023
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759782557/3_t21lvc.jpg",
+        "name": "Vijay Sethupathi",
+        "role": "Kali Gaikwad",
+        "episode": 1,
+        "year": 2023
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759782560/4_mjiieq.jpg",
+        "name": "Jackie Shroff",
+        "role": "Major Dhyanchand",
+        "episode": 1,
+        "year": 2023
+      }
+    ],
+    "tags": ["action", "revenge", "patriotism"],
+    "isWatched": false
+  },
+  {
+    "_id": {
+      "$oid": "68e40ecb2fe670a18a81bfe1"
+    },
+    "id": "mv010",
+    "title": "Thor",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777665/thor_amxe3f.jpg",
+    "description": "The powerful god Thor is cast out of Asgard and must learn humility to reclaim his power.",
+    "creators": ["Kenneth Branagh"],
+    "stars": ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston"],
+    "genre": ["Action", "Fantasy", "Superhero"],
+    "releaseYear": 2011,
+    "episodes": 1,
+    "videos": 15,
+    "photos": 60,
+    "rating": 7,
+    "ratingCount": 900000,
+    "language": "English",
+    "country": "USA",
+    "duration": "1h 55m",
+    "youtubeUrl": "https://www.youtube.com/embed/JOddp-nlNvQ",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778573/1_dgdc9r.jpg",
+        "name": "Chris Hemsworth",
+        "role": "Thor",
+        "episode": 1,
+        "year": 2011
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778574/2_g3iv6w.jpg",
+        "name": "Natalie Portman",
+        "role": "Jane Foster",
+        "episode": 1,
+        "year": 2011
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778575/3_uyitm1.jpg",
+        "name": "Tom Hiddleston",
+        "role": "Loki",
+        "episode": 1,
+        "year": 2011
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778577/4_pgohno.jpg",
+        "name": "Anthony Hopkins",
+        "role": "Odin",
+        "episode": 1,
+        "year": 2011
+      }
+    ],
+    "tags": ["marvel", "god", "asgard"],
+    "isWatched": false
+  },
+  {
+    "_id": {
+      "$oid": "68e40ecb2fe670a18a81bfe2"
+    },
+    "id": "mv011",
+    "title": "The Dark Knight",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777668/the_dark_knight_lsc6cg.jpg",
+    "description": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos.",
+    "creators": ["Christopher Nolan"],
+    "stars": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "genre": ["Action", "Crime", "Drama"],
+    "releaseYear": 2008,
+    "episodes": 1,
+    "videos": 22,
+    "photos": 90,
+    "rating": 9,
+    "ratingCount": 2800000,
+    "language": "English",
+    "country": "USA",
+    "duration": "2h 32m",
+    "youtubeUrl": "https://www.youtube.com/embed/EXeTwQWrcwY",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778640/1_qagcfj.jpg",
+        "name": "Christian Bale",
+        "role": "Bruce Wayne / Batman",
+        "episode": 1,
+        "year": 2008
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778641/2_wrbqkr.jpg",
+        "name": "Heath Ledger",
+        "role": "Joker",
+        "episode": 1,
+        "year": 2008
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778641/3_jep9qv.jpg",
+        "name": "Aaron Eckhart",
+        "role": "Harvey Dent",
+        "episode": 1,
+        "year": 2008
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778644/4_uz7qbf.jpg",
+        "name": "Michael Caine",
+        "role": "Alfred",
+        "episode": 1,
+        "year": 2008
+      }
+    ],
+    "tags": ["dc", "hero", "crime"],
+    "isWatched": false
+  },
+  {
+    "_id": {
+      "$oid": "68e40ecb2fe670a18a81bfe0"
+    },
+    "id": "mv009",
+    "title": "Iron Man",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777664/iron_mkk5bo.jpg",
+    "description": "After being held captive, billionaire Tony Stark builds a high-tech suit to fight evil.",
+    "creators": ["Jon Favreau"],
+    "stars": ["Robert Downey Jr.", "Gwyneth Paltrow", "Jeff Bridges"],
+    "genre": ["Action", "Sci-Fi", "Superhero"],
+    "releaseYear": 2008,
+    "episodes": 1,
+    "videos": 18,
+    "photos": 70,
+    "rating": 7.9,
+    "ratingCount": 1100000,
+    "language": "English",
+    "country": "USA",
+    "duration": "2h 6m",
+    "youtubeUrl": "https://www.youtube.com/embed/8ugaeA-nMTc",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778477/1_vpiuy8.jpg",
+        "name": "Robert Downey Jr.",
+        "role": "Tony Stark / Iron Man",
+        "episode": 1,
+        "year": 2008
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778476/2_gptgyg.jpg",
+        "name": "Gwyneth Paltrow",
+        "role": "Pepper Potts",
+        "episode": 1,
+        "year": 2008
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778476/3_ebauny.jpg",
+        "name": "Jeff Bridges",
+        "role": "Obadiah Stane",
+        "episode": 1,
+        "year": 2008
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778477/4_kc6wyk.jpg",
+        "name": "Terrence Howard",
+        "role": "James Rhodes",
+        "episode": 1,
+        "year": 2008
+      }
+    ],
+    "tags": ["marvel", "tech", "hero"],
+    "isWatched": false
+  },
+  {
+    "_id": {
+      "$oid": "68e40ecb2fe670a18a81bfdc"
+    },
+    "id": "mv004",
+    "title": "Money Heist",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777665/money_heist_dxrlo7.jpg",
+    "description": "A criminal mastermind, known as 'The Professor', recruits eight thieves to carry out an ambitious heist.",
+    "creators": ["Álex Pina"],
+    "stars": ["Álvaro Morte", "Úrsula Corberó", "Pedro Alonso"],
+    "genre": ["Crime", "Drama", "Thriller"],
+    "releaseYear": 2017,
+    "episodes": 41,
+    "videos": 30,
+    "photos": 120,
+    "rating": 8.2,
+    "ratingCount": 600000,
+    "language": "Spanish",
+    "country": "Spain",
+    "duration": "50m per ep",
+    "youtubeUrl": "https://www.youtube.com/embed/hMANIarjT50",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778123/1_nutwij.jpg",
+        "name": "Álvaro Morte",
+        "role": "The Professor",
+        "episode": 41,
+        "year": 2017
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778122/2_ek8wrv.jpg",
+        "name": "Úrsula Corberó",
+        "role": "Tokyo",
+        "episode": 41,
+        "year": 2017
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778122/3_sed5kv.jpg",
+        "name": "Pedro Alonso",
+        "role": "Berlin",
+        "episode": 41,
+        "year": 2017
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778122/4_kxurwv.jpg",
+        "name": "Miguel Herrán",
+        "role": "Rio",
+        "episode": 41,
+        "year": 2017
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778123/5_g8tc0j.jpg",
+        "name": "Itziar Ituño",
+        "role": "Lisbon",
+        "episode": 41,
+        "year": 2017
+      }
+    ],
+    "tags": ["heist", "thriller", "team"],
+    "isWatched": false
+  },
+  {
+    "_id": {
+      "$oid": "68e40ecb2fe670a18a81bfdf"
+    },
+    "id": "mv008",
+    "title": "Captain America",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777663/captain_america_arbes2.jpg",
+    "description": "During World War II, Steve Rogers transforms into the super-soldier Captain America to fight HYDRA.",
+    "creators": ["Joe Johnston"],
+    "stars": ["Chris Evans", "Hayley Atwell", "Hugo Weaving"],
+    "genre": ["Action", "Adventure", "Superhero"],
+    "releaseYear": 2011,
+    "episodes": 1,
+    "videos": 16,
+    "photos": 55,
+    "rating": 6.9,
+    "ratingCount": 900000,
+    "language": "English",
+    "country": "USA",
+    "duration": "2h 4m",
+    "youtubeUrl": "https://www.youtube.com/embed/JerVrbLldXw",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778377/1_dmoekf.jpg",
+        "name": "Chris Evans",
+        "role": "Steve Rogers / Captain America",
+        "episode": 1,
+        "year": 2011
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778378/2_uchmac.jpg",
+        "name": "Hayley Atwell",
+        "role": "Peggy Carter",
+        "episode": 1,
+        "year": 2011
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778379/3_qkifqo.jpg",
+        "name": "Hugo Weaving",
+        "role": "Red Skull",
+        "episode": 1,
+        "year": 2011
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759778380/4_vo03n3.jpg",
+        "name": "Sebastian Stan",
+        "role": "Bucky Barnes",
+        "episode": 1,
+        "year": 2011
+      }
+    ],
+    "tags": ["marvel", "superhero", "war"],
+    "isWatched": false
+  },
+  {
+    "_id": {
+      "$oid": "68e412eff4a39387c6f52e6d"
+    },
+    "id": "mv007",
+    "title": "Baahubali",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777513/Baahubali-poster.jpg",
+    "description": "A young man uncovers his royal heritage and seeks to reclaim the throne of his kingdom.",
+    "creators": ["S. S. Rajamouli"],
+    "stars": ["Prabhas", "Rana Daggubati", "Anushka Shetty"],
+    "genre": ["Action", "Adventure", "Drama"],
+    "releaseYear": 2015,
+    "episodes": 2,
+    "videos": 20,
+    "photos": 80,
+    "rating": 8,
+    "ratingCount": 160000,
+    "language": "Telugu",
+    "country": "India",
+    "duration": "2h 39m",
+    "youtubeUrl": "https://www.youtube.com/embed/VdafjyFK3ko?si=96yIMcrXWsGpdz40",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777514/Baahubali-topCast-0.jpg",
+        "name": "Prabhas",
+        "role": "Amarendra Baahubali",
+        "episode": 2,
+        "year": 2015
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777515/Baahubali-topCast-1.jpg",
+        "name": "Rana Daggubati",
+        "role": "Bhallaladeva",
+        "episode": 2,
+        "year": 2015
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777516/Baahubali-topCast-2.jpg",
+        "name": "Anushka Shetty",
+        "role": "Devasena",
+        "episode": 2,
+        "year": 2015
+      },
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759777519/Baahubali-topCast-3.jpg",
+        "name": "Ramya Krishnan",
+        "role": "Sivagami",
+        "episode": 2,
+        "year": 2015
+      }
+    ],
+    "tags": ["epic", "mythology", "war"],
+    "isWatched": false,
+    "createdAt": {
+      "$date": "2025-10-06T19:05:19.864Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-06T19:05:19.864Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68e55773e6cc5ec6d4de976f"
+    },
+    "title": "Arif Hossain",
+    "poster": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759860593/asd-poster.jpg",
+    "description": "asd",
+    "creators": ["df"],
+    "stars": [],
+    "genre": [],
+    "releaseYear": 2025,
+    "episodes": 45,
+    "videos": 0,
+    "photos": 0,
+    "rating": 34,
+    "ratingCount": 34418,
+    "language": "da",
+    "country": "fa",
+    "duration": "df",
+    "youtubeUrl": "https://www.youtube.com/embed/BmVmhjjkN4E",
+    "topCast": [
+      {
+        "image": "https://res.cloudinary.com/doz2v0iab/image/upload/v1759860594/asd-topCast-0.jpg",
+        "name": "ff",
+        "role": "ad",
+        "episode": 0,
+        "year": 2025
+      }
+    ],
+    "tags": ["cv"],
+    "isWatched": false,
+    "createdAt": {
+      "$date": "2025-10-07T18:09:55.138Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-08T05:13:22.983Z"
+    },
+    "__v": 0
+  }
+]

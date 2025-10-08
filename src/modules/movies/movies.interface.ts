@@ -1,6 +1,6 @@
 // Top Cast Interface
 export interface ITopCast {
-  image: string;   
+  image: string;
   name: string;
   role: string;
   episode: number;
@@ -24,8 +24,9 @@ export interface IMovie {
   ratingCount: number;
   language: string;
   country?: string;
-  duration?: string;  
+  duration?: string;
   youtubeUrl: string;
   topCast: ITopCast[];
   tags?: string[];
+  isWatched: boolean;
 }

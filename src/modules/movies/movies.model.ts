@@ -35,6 +35,7 @@ const MovieSchema = new Schema<IMovie>(
     youtubeUrl: { type: String, required: true },
     topCast: { type: [TopCastSchema], required: true },
     tags: { type: [String], default: [] },
+    isWatched: { type: Boolean, default: false },
   },
   { timestamps: true }
 );

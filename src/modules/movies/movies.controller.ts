@@ -80,10 +80,22 @@ const deleteMovie = catchAsync(async (req, res, next) => {
   });
 });
 
+const watchStatus = catchAsync(async (req, res, next) => {
+  const result = await MovieServices.updateWatchStatus(req.params.id);
+
+  sendResponse(res, {
+    statusCode: StatusCodes.OK,
+    success: true,
+    message: "successfully updated status",
+    data: result,
+  });
+});
+
 export const MovieController = {
   createMovie,
   getMovie,
   getSingleMovie,
   updateMovie,
   deleteMovie,
+  watchStatus,
 };
